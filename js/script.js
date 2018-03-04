@@ -37,3 +37,5 @@ function createGallery(dataList) {
         gallery.appendChild(img);
     }
 }
+
+getMarsPicture();
